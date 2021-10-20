@@ -100,7 +100,7 @@
     <string name="ptchr_sharp3_key">OFF</string>
     <string name="c_t_key">0</string>
     <string name="c_t_user_bg_key"></string>
-    <string name="pref_video_stab_button_untouched_count">8</string>
+    <string name="pref_video_stab_button_untouched_count">4</string>
     <string name="ptchr_bpyg_key">OFF</string>
     <string name="pref_social_app_com_google_android_apps_messaging">0</string>
     <string name="videoframe_240_key">0</string>
@@ -286,7 +286,7 @@
     <string name="pref_storage_saver_auto_disable">0</string>
     <string name="prof60_audioSampleRate_key"></string>
     <string name="ptchr_user_curve_2_key"></string>
-    <string name="pref_video_fps_p2018_key">FPS_AUTO</string>
+    <string name="pref_video_fps_p2018_key">FPS_30</string>
     <string name="pref_camera_raw_output_key">0</string>
     <string name="ptchr_sharp1_key">OFF</string>
     <string name="exp_ns_limit_key_0">200</string>
@@ -338,7 +338,7 @@
     <string name="audiobitrate_240_key">1</string>
     <string name="ptchr_exposuren_key">OFF</string>
     <string name="ptchr_sharprlarge_key">OFF</string>
-    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1627760408481" />
+    <long name="tooltip_latest_impression_timestamp_for_try_washington_tooltip" value="1634743003503" />
     <string name="ptchr_noise_settings_key_0">1</string>
     <string name="ptchr_redgreen_key">OFF</string>
     <string name="ptchr_chromalow_key">OFF</string>
@@ -469,7 +469,7 @@
     <string name="ptchr_brightness_key_1">OFF</string>
     <string name="ptchr_noisemodelunblock_key_0">61008052</string>
     <string name="pref_camera_single_shot_sound_key">0</string>
-    <string name="all_sixty_key">1</string>
+    <string name="all_sixty_key">0</string>
     <string name="ptchr_user_curve_9_key"></string>
     <string name="ptchr_zipper_key_0">CDCC8C3F</string>
     <string name="pref_zoom_out_command_string">-1</string>
@@ -532,7 +532,7 @@
     <string name="device_hdrplus_key_0">12</string>
     <string name="ptchr_green_key">OFF</string>
     <string name="gawb_user_bg_d_key"></string>
-    <int name="tooltip_impression_count_for_try_washington_tooltip" value="2" />
+    <int name="tooltip_impression_count_for_try_washington_tooltip" value="3" />
     <string name="ptchr_hdr_overall_lightness_key">OFF</string>
     <string name="prof60_fhd_audioSampleRate_key"></string>
     <string name="pref_release_dialog_last_shown_version"></string>
@@ -622,6 +622,7 @@
     <string name="ptchr_ochroma_l5_key">OFF</string>
     <string name="ptchr_darkenlight_key">OFF</string>
     <string name="perf_has_run_second_education">0</string>
+    <string name="pref_opt_video_stabilization_key">0</string>
     <string name="ptchr_chromahigha_l1_key">OFF</string>
     <string name="ptchr_user_curve_13_key"></string>
     <string name="ptchr_user_curve_7_key"></string>
@@ -635,11 +636,11 @@
     <string name="ptchr_chromalow_l3_key">OFF</string>
     <string name="prof30_fhd_videoBitRate_key"></string>
     <string name="quality_120_key">10</string>
-    <string name="pref_camera_dirty_lens_history_key0">-3.1242707|-1.0461006|</string>
+    <string name="pref_camera_dirty_lens_history_key0">-3.1242707|-1.0461006|-2.738458|-2.517309|1.3619288|</string>
     <string name="pref_camera_dirty_lens_history_key1">-17.0|</string>
     <string name="prof60_fhd_fileFormat_key"></string>
     <string name="lens_wl_key"></string>
-    <string name="pref_camera_dirty_lens_history_key3">-17.0|-4.267738|</string>
+    <string name="pref_camera_dirty_lens_history_key3">-17.0|-4.267738|-5.7982116|</string>
     <string name="pref_camera_dirty_lens_history_key4">-3.2067044|</string>
     <string name="pref_video_resolution">RES_1080P</string>
     <string name="pref_camera_advice_settings">1</string>
